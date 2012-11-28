@@ -1,3 +1,5 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=birek&url=https://github.com/b1r3k/kindleNotesExtractor&title=kindleNotesExtractor&language=en_GB&tags=kindle,notes,structural%20reading&category=software) 
+
 kindleNotesExtractor
 ====================
 
